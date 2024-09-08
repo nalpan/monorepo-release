@@ -7,7 +7,7 @@
     "start": "node index.mjs"
   },
   "dependencies": {
-    "@nalpan/module-a": "1.1.0",
-    "@nalpan/module-b": "1.0.0"
+    "@nalpan/monorepo-release-module-a": "1.1.0",
+    "@nalpan/monorepo-release-module-b": "1.0.0"
   }
 }

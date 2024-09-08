@@ -1,0 +1,13 @@
+{
+  "name": "@nalpan/app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "@nalpan/module-a": "1.1.0",
+    "@nalpan/module-b": "1.0.0"
+  }
+}

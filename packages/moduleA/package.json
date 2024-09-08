@@ -1,0 +1,10 @@
+{
+  "name": "@nalpan/module-a",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/nalpan/monorepo-release.git",
+    "directory": "module-a"
+  }
+}

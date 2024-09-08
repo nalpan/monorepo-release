@@ -1,5 +1,5 @@
 {
-  "name": "@nalpan/module-b",
+  "name": "@nalpan/monorepo-release-module-b",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",

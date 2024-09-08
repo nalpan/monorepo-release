@@ -6,5 +6,8 @@
     "type": "git",
     "url": "git+https://github.com/nalpan/monorepo-release.git",
     "directory": "module-a"
-  }
+  },
+  "publishConfig": {
+		"registry": "https://npm.pkg.github.com/nalpan/monorepo-release"
+	}
 }

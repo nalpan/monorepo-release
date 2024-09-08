@@ -1,0 +1,14 @@
+{
+  "name": "@nalpan/module-b",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nalpan/monorepo-release.git",
+    "directory": "module-b"
+  },
+  "publishConfig": {
+		"registry": "https://npm.pkg.github.com/nalpan/monorepo-release"
+	}
+}

@@ -2,6 +2,7 @@
   "name": "@nalpan/module-a",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nalpan/monorepo-release.git",
